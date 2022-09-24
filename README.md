@@ -1,1 +1,1 @@
-# Diciclina_de_Otimizacao
+# Notas da Disciplina de Otimização 
